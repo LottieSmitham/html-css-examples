@@ -4,7 +4,7 @@
 
 This repository contains the source code for my videos at [Bilibili, 峰华前端工程师](https://space.bilibili.com/302954484)
 
-Text in videos and codes are primarily in Chinese, **But you can use this repository without knowing Chinese. Just read the critical part.**
+Text in videos and codes are primarily in Chinese,   But you can use this repository without knowing Chinese. Just read the critical part.!*
 
 You can use this repository for inspirations and cheatsheets.
 
@@ -33,4 +33,4 @@ Or scan the QR code below:
 
 ## Contributing
 
-Currently, I have no contribution plans, but If you have any good examples, feel free to open an issue or submit a PR.
+Currently, I have no contribution plans, but If you have any good examples, feel free to open an issue or submit a PR. 
